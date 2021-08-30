@@ -1,0 +1,32 @@
+2021-08-28 02:10:05,020 :: INFO :: Start experiment: luna-275607
+2021-08-28 02:10:05,024 :: INFO :: Control node : Starting of control node serial interface
+2021-08-28 02:10:05,027 :: INFO :: Control node : reset
+2021-08-28 02:10:05,029 :: INFO :: Reset Control Node
+2021-08-28 02:10:07,962 :: INFO :: Control node : start power of open node
+2021-08-28 02:10:07,990 :: INFO :: Node OpenOCD: Setup of openocd node
+2021-08-28 02:10:11,030 :: INFO :: Node OpenOCD: flash of openocd node
+2021-08-28 02:10:11,048 :: INFO :: Flash firmware on OpenOCD: /tmp/tmpcah1AM--9eca698c47b1367377dfc6ae1bda6964_unicast-sender-count-60T-20B.iotlab-m3
+2021-08-28 02:10:18,043 :: INFO :: Control node : Start experiment
+2021-08-28 02:10:18,096 :: INFO :: Control Node set time delay: 1129 us
+2021-08-28 02:10:18,119 :: INFO :: Control node : profile configuration
+2021-08-28 02:10:18,126 :: INFO :: Configure profile on Control Node
+2021-08-28 02:10:18,202 :: INFO :: Start experiment succeeded
+2021-08-28 02:49:41,378 :: INFO :: Check 'control' node ftdi
+2021-08-28 02:49:41,637 :: INFO :: 'control' node ftdi found
+2021-08-28 02:49:41,642 :: INFO :: Check 'm3' node ftdi
+2021-08-28 02:49:41,711 :: INFO :: 'm3' node ftdi found
+2021-08-28 03:11:24,067 :: INFO :: Gateway Manager : Stop experiment
+2021-08-28 03:11:24,089 :: INFO :: Stop experiment
+2021-08-28 03:11:24,108 :: INFO :: Control node : stop of the experiment
+2021-08-28 03:11:24,131 :: INFO :: Control node : profile configuration
+2021-08-28 03:11:24,148 :: INFO :: Configure profile on Control Node
+2021-08-28 03:11:24,294 :: INFO :: Control node : start power of open node
+2021-08-28 03:11:24,314 :: INFO :: Node OpenOCD: teardown of openocd node
+2021-08-28 03:11:27,348 :: INFO :: openocd node debugger stop
+2021-08-28 03:11:28,037 :: INFO :: Node OpenOCD: flash of openocd node
+2021-08-28 03:11:28,052 :: INFO :: Flash firmware on OpenOCD: /usr/lib/python2.7/site-packages/gateway_code/static/m3_idle.elf
+2021-08-28 03:11:30,617 :: INFO :: Control node : Stop control node serial interface
+2021-08-28 03:11:30,622 :: INFO :: Control node : stop power of open node
+2021-08-28 03:11:30,657 :: INFO :: Control node : reset
+2021-08-28 03:11:30,661 :: INFO :: Reset Control Node
+2021-08-28 03:11:33,588 :: INFO :: Stop experiment succeeded
